@@ -1,1 +1,3 @@
-# .github
+# hypenote
+
+Hyper minimal markdown notes
