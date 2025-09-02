@@ -1,6 +1,8 @@
-## Hi there 👋
+## hypenote
 
-hypenote - hyper minimal markdown notes for macOS.
+*hyper minimal markdown notes for macOS.*
+
+[Read the docs](https://hypenote.app)
 
 <!--
 
